@@ -54,7 +54,7 @@ class HomeScreen extends StatelessWidget {
                           Align(
                             alignment: Alignment(-1, 1),
                             child: Text(
-                              'Endereço: Rua XXXXX Nº: 999',
+                              'Endereço: Rua Isoleta Regozina vida Nº: 221',
                               style: TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.bold,
@@ -159,27 +159,7 @@ class HomeScreen extends StatelessWidget {
                     Align(
                       alignment: Alignment(-1, 1),
                       child: Text(
-                        'XXXXXXXXXXXXX ',
-                        style: TextStyle(
-                          fontSize: 20,
-                          fontWeight: FontWeight.normal,
-                        ),
-                      ),
-                    ),
-                    Align(
-                      alignment: Alignment(-1, 1),
-                      child: Text(
-                        'XXXXXXXXXXXXX ',
-                        style: TextStyle(
-                          fontSize: 20,
-                          fontWeight: FontWeight.normal,
-                        ),
-                      ),
-                    ),
-                    Align(
-                      alignment: Alignment(-1, 1),
-                      child: Text(
-                        'XXXXXXXXXXXXX ',
+                        'Auxiliar de produção ',
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.normal,

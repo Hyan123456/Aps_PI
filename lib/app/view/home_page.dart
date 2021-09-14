@@ -159,7 +159,7 @@ class HomeScreen extends StatelessWidget {
                     Align(
                       alignment: Alignment(-1, 1),
                       child: Text(
-                        'Auxiliar de produção ',
+                        'Auxiliar de produção I',
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.normal,
